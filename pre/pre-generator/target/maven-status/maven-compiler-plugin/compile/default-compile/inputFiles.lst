@@ -1,0 +1,9 @@
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/domain/SysColumnEntity.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/domain/SysTableEntity.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/mapper/SysCodeMapper.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/service/SysCodeService.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/controller/SysCodeGenController.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/service/Impl/SysCodeServiceImpl.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/domain/SysDatasource.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/util/CodeGenUtil.java
+/Users/jerry/react_work/pre/pre-generator/src/main/java/com/xd/pre/generator/domain/CodeGenConfig.java
